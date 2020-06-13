@@ -1,0 +1,1 @@
+# Các component ghép lại thành view, và view sẽ được sử dụng trong router.
